@@ -5,3 +5,4 @@ Ova dokumentacija služi u svrhu primjene Pandoca za konverziju datoteka, odnosn
 2. 🎂 [Uvod u Markdown](docs/01-markdown-primjeri.md)
 
 ![Tux](Tux.png)
+<img asrc="Tux.png" width="30%">
